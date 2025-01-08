@@ -7,6 +7,8 @@
 
 Welcome to my [Course Review](https://www.lyt0112.com/blog/course_review-zh) !
 
+Course Notes are here: [Course Notes](https://arthals.ink/tags/编译原理/)
+
 ## Course Score Composition
 
 1. 期末笔试（30%）
