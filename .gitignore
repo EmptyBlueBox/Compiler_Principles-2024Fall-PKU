@@ -1,0 +1,44 @@
+PPT
+Slides
+compiler_principles-note.md
+
+# Binary
+Homework/**/*.pdf
+!Homework/15/*.pdf
+Slide/
+Book/
+
+# VSCode
+.vscode/
+
+# macOS system files
+.DS_Store
+
+# C compilation intermediate files
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dll
+*.exe
+*.out
+
+# Preprocessor and compiler generated files
+*.i
+*.ii
+*.s
+*.asm
+*.koopa
+
+# Build directories
+build/
+Debug/
+Release/
+
+# Dependencies
+opt/
+
+# Arthals-Ink
+publish.py
+Blog/
